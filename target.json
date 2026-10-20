@@ -1,0 +1,13 @@
+{
+  "address": "13 rue Poliveau 75005 Paris",
+  "surf": 45,
+  "rooms": 2,
+  "deps": 1,
+  "label": "E",
+  "ground": 0,
+  "ceiling": 2.7,
+  "terrace": 0,
+  "terrace_value": 0,
+  "win_area": null,
+  "quarter": "2025Q4"
+}

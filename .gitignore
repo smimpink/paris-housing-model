@@ -1,0 +1,11 @@
+# Predictions are specific to whatever flat is in the target file
+output/target_prediction_*.csv
+# Private target files (point TARGET at them): target_myflat.json etc.
+target_*.json
+# Caches and R/OS clutter
+buildings/
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
